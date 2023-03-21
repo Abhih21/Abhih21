@@ -1,10 +1,11 @@
 <h1 align="center">Hi 👋, I'm Abhishek Negi</h1>
 <h3 align="center">Enjoy Coding!!</h3>
 
-<img align="right" alt="coding" margin-top="75px" width="400" src="https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhih21&label=Profile%20views&color=0e75b6&style=flat" alt="abhih21" /> </p>
 
 - 🌱 I’m currently learning **JavaScript**
+<img align="right" alt="coding" width="500" src="https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
