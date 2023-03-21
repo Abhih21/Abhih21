@@ -3,7 +3,7 @@
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhih21&label=Profile%20views&color=0e75b6&style=flat" alt="abhih21" /> </p>
-<img align="right" alt="coding" width="400" src="https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif">
+<img align="right" alt="coding" width="400" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif">
 - 🌱 I’m currently learning **JavaScript**
 
 
